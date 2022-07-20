@@ -830,6 +830,10 @@ img {
   border-left: 5px solid transparent;
 }
 
+.title-user {
+  font-size: 1.1rem;
+}
+
 /* Loading */
 .lds-roller {
   display: inline-block;
